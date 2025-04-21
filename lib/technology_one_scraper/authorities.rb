@@ -153,7 +153,7 @@ module TechnologyOneScraper
     },
 
     wyndham: {
-      url: "https://eproperty.wyndham.vic.gov.au/ePropertyPROD",
+      url: "https://wyndham-web.t1cloud.com/T1PRDefault/WebApps/eProperty",
       period: "L28"
     },
     yarra: {
